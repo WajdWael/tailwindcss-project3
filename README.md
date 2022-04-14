@@ -4,7 +4,7 @@
 
 [Click here!](https://github.com/WajdWael/tailwindcss-project)
 
-### this is the second one:
+### This is the second one:
 
 [Click here!](https://github.com/WajdWael/tailwindcss-project2)
 
