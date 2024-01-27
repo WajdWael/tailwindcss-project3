@@ -1,7 +1,7 @@
 # Hello everyone this is the third **Tailwindcss** project!!
 
 ![image](https://github.com/WajdWael/tailwindcss-project3/assets/81550668/1eae8fd2-9e91-4c07-b959-f7889e391362)
-[Demo - preview website]https://wajdwael.github.io/tailwindcss-project3/)
+[Demo - preview website](https://wajdwael.github.io/tailwindcss-project3/)
 
 ---
 
