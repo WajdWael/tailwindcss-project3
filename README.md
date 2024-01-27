@@ -6,9 +6,8 @@
 ---
 
 # Other Projects, TailwindCSS
-
-1. [Click here!](https://github.com/WajdWael/tailwindcss-project)
-2. [Click here!](https://github.com/WajdWael/tailwindcss-project2)
+-  [Book Mark](https://github.com/WajdWael/tailwindcss-project/)
+-  [Manage Website](https://github.com/WajdWael/tailwindcss-project2)
 
 ---
 
